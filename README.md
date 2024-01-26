@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chinzoe</h1>
+#Hi 👋, I'm Chinzoe
 
-<h2>Languages</h2>
+##Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,mysql,postgresql,graphql)]
 
 <h2>Libraries & Frameworks</h2>
