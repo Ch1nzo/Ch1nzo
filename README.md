@@ -5,7 +5,7 @@ I am Web Developer based in Japan.
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,mysql,postgresql,graphql)
 
 ## Libraries & Frameworks
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,jquery,wordpress,astro,supabase)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,prisma,tailwindcss,jquery,wordpress,astro,supabase,laravel)
 
  [![](https://visitcount.itsvg.in/api?id=Ch1nzo&label=Profile%20Views&icon=3&pretty=true)](https://visitcount.itsvg.in)
 <center>
