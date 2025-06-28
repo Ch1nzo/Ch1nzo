@@ -1,10 +1,6 @@
 # Hi 👋, I'm Chinzoe
 I am Web Developer based in Japan.
 
-<center>
-<img style="margin: 0 auto; display: block;" src="https://github-readme-streak-stats.herokuapp.com?user=Ch1nzo&locale=ja&short_numbers=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-</center>
-
 ## Languages
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,mysql,postgresql,graphql)
 
